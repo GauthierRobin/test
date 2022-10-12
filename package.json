@@ -1,6 +1,5 @@
 {
   "name": "solitaire",
-  "homepage": "https://gauthierrobin.github.io/test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
